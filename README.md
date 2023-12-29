@@ -1,9 +1,9 @@
-1 进入satsx的atom dmint 的mint nft界面
+1 进入satsx的atom ===>   dmint=====>  mint nft
 https://satsx.io/inscribe/atomicals?template=dmint&op=
 
 
-2 选择Mint NFT Item
-   在Container里面输入  #flippedtoothy
+2 选择Mint NFT Item    ===>
+在Container里面输入  #flippedtoothy  =====>
      选择【flippedtoothy-json文件夹】压缩包里的一张json文件
 
 
