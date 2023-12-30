@@ -20,6 +20,9 @@ https://satsx.io/inscribe/atomicals?template=dmint&op=
 5 然后耐心等待，鳄鱼就到账了。
 
 
+
+
+
 English version tutorial
 
 1 Enter the satsx web page
