@@ -18,6 +18,7 @@ https://satsx.io/inscribe/atomicals?template=dmint&op=
 ### 官方推特
 https://twitter.com/Flipped_Toothy
 
+========================================================
 
 
 ### English version tutorial
@@ -37,9 +38,8 @@ Click code, then download zip
 
 5 Pop up prompt box
 
-###twiitter
-[
-](https://twitter.com/Flipped_Toothy)https://twitter.com/Flipped_Toothy
+### twiitter
+https://twitter.com/Flipped_Toothy
 
 
 
