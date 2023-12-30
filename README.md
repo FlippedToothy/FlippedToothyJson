@@ -1,3 +1,5 @@
+中文教程：
+
 1 进入satsx的atom ===>   dmint=====>  mint nft
 https://satsx.io/inscribe/atomicals?template=dmint&op=
 
@@ -17,6 +19,26 @@ https://satsx.io/inscribe/atomicals?template=dmint&op=
 
 5 然后耐心等待，鳄鱼就到账了。
 
+
+English version tutorial
+
+1 Enter the satsx web page
+https://satsx.io/inscribe/atomicals?template=dmint&op=
+
+2 Select Mint NFT Item
+Enter #flippedtoothy in Container
+
+3 Select json file
+File download address
+https://github.com/FlippedToothy/FlippedToothyJson/tree/main
+Click code, then download zip
+
+4 After selecting the file, click Priview. If no one else selects it, it will go to the next page. Just click InScibe.
+
+5 Pop up prompt box
+
+The fourth step of payment will pop up the wallet for you to confirm.
+Just wait patiently for three confirmations of the block, and flippedtoothy will arrive in your account.
 
 
 
